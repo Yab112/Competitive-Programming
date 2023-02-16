@@ -1,9 +1,16 @@
-class Solution:
-    def isValid(self, s: str) -> bool:
-        while '()'in s or '{}'in s or '[]'in s:
-            s=s.replace('()',"").replace('[]',"").replace('{}',"")
-        if len(s)==0:
-            return True
-        else:
-            return  False
+
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        stack=deque()
+        charactors={"(":")","[":"]","{":"}"}
+        for i in s:
+            if i in charactors.keys():
+                stack.append(i)
         
+            elif len(stack) == 0 or i !=charactors[stack.pop()]:
+                return False
+        return len(stack) == 0
