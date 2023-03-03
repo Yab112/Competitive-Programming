@@ -14,4 +14,4 @@ class Solution:
             elif mid ** 2 > x:
                 high = mid -1
         
-        return low-1
+        return high
