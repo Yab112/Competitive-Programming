@@ -18,7 +18,7 @@ class Solution:
             
         
        
-    """" check out this stack code, it ain't work for this scenario but it helped me to understand what is stack and how to work with stack,by the way when i say it ain't work i am teeling you that this doesn't technically they want you to do """
+    """" check out this stack code, it ain't work for this scenario but it helped me to understand what is stack and how to work with stack,by the way when i say it ain't work i am teeling you that this isn't technically what they want you to do """
         # count = 0
         # stack = []
         # for i in nums:
