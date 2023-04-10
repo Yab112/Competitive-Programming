@@ -7,4 +7,10 @@ class Solution:
         for i in nums2:
             nums1[l] = i
             l += 1
-        nums1.sort()
+        for i in nums1:
+            for j in range(len(nums1)):
+                try:
+                    if nums1[j] > nums1[j + 1]:
+                        nums1[j], nums1[j + 1] = nums1[j + 1], nums1[j]
+                except:
+                    pass
