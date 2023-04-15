@@ -8,10 +8,16 @@ class Solution:
         last = head
         if head and head.next :
             cur = last.next
+            same = False
             while cur :
-                if cur.val != last.val:
+                if same and cur.val != last.val:
                     last.next = cur
                     last = cur
+                    same = False
+                elif cur.val != last.val:
+                    last = cur                    
+                else:
+                    same = True
                 cur = cur.next
             last.next = None
             
