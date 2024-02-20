@@ -1,14 +1,14 @@
 class Solution:
+    def rev(self,s,left,right):
+        if left >= right:
+            return
+        s[left],s[right] = s[right],s[left]
+        left += 1
+        right -= 1
+        self.rev(s,left,right)
     def reverseString(self, s: List[str]) -> None:
-        l = 0
-        r = len(s) - 1
-        while l <= r:
-            temp = s[l]
-            s[l] = s[r]
-            s[r] = temp
-            l += 1
-            r -= 1
-
+        self.rev(s,0,len(s)-1)
+        
         """
         Do not return anything, modify s in-place instead.
         """
