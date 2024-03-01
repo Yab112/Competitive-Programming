@@ -2,14 +2,25 @@ from typing import List
 
 class Solution:
     def trap(self, height: List[int]) -> int:
-        def l_r_max(nums):
-            res = [0] * len(nums)
-            num = nums[0]
-            for i in range(1,len(nums)):
-                res[i] = num
-                num = max(num,nums[i])
-            return res  
-        l_max = l_r_max(height)
-        r_max = l_r_max(height[::-1])[::-1]
-        return sum([min(l_max[i],r_max[i]) - height[i] for i in range(len(height)) if min(l_max[i],r_max[i]) - height[i] >= 0])
+        if not height:
+            return 0
         
+        l = 0
+        r = len(height) - 1
+        l_max = height[l]
+        r_max = height[r]
+        res = 0
+        
+        while l < r:
+            if l_max < r_max:
+                if l_max - height[l] > 0:
+                    res += (l_max - height[l])
+                l += 1
+                l_max = max(l_max,height[l])
+            else:
+                if r_max - height[r] > 0:
+                    res += (r_max - height[r])
+                r -= 1
+                r_max = max(height[r],r_max)
+        
+        return res
