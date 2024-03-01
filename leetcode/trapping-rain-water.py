@@ -1,10 +1,6 @@
 from typing import List
 
 class Solution:
-    def __init__(self):
-        self.mono_stack = []
-        self.res = 0
-
     def trap(self, height: List[int]) -> int:
         def l_r_max(nums):
             res = [0] * len(nums)
