@@ -36,4 +36,16 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+## String
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
