@@ -15,6 +15,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Yab112/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
@@ -46,6 +47,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Yab112/Competitive-Programming/tree/master/0071-simplify-path) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
