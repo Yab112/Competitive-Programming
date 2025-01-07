@@ -14,6 +14,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
@@ -43,9 +44,14 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
