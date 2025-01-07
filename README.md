@@ -40,11 +40,13 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Array
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
@@ -54,4 +56,8 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
