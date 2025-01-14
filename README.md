@@ -55,6 +55,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yab112/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yab112/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -79,4 +80,12 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
