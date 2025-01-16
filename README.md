@@ -22,10 +22,12 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -58,6 +60,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0071-simplify-path](https://github.com/Yab112/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
