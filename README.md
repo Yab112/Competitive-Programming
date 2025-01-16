@@ -23,6 +23,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## String
@@ -84,6 +86,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
