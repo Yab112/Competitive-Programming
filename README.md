@@ -12,6 +12,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yab112/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
+| [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
+| [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
@@ -82,6 +84,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
