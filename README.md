@@ -25,6 +25,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
@@ -55,6 +56,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
@@ -95,6 +97,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Hash Table
@@ -126,4 +129,12 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
