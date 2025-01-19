@@ -27,6 +27,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## String
@@ -120,4 +122,8 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
