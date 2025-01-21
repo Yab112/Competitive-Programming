@@ -28,6 +28,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
 ## Recursion
@@ -60,6 +61,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
