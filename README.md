@@ -31,6 +31,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Yab112/Competitive-Programming/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
