@@ -31,6 +31,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
+| [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Recursion
@@ -44,18 +45,21 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -151,4 +155,8 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
