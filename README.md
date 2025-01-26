@@ -45,6 +45,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
@@ -54,6 +55,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
@@ -63,6 +65,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
@@ -170,4 +173,5 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0100-same-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
