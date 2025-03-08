@@ -73,6 +73,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -99,6 +100,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Yab112/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
@@ -165,6 +167,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
