@@ -74,6 +74,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Yab112/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Yab112/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
@@ -182,4 +184,12 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0100-same-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yab112/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Yab112/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Yab112/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
