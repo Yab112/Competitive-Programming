@@ -76,6 +76,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
@@ -101,6 +102,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Yab112/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
