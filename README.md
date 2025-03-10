@@ -84,6 +84,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Yab112/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## String
 |  |
@@ -105,6 +106,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Yab112/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
@@ -135,11 +137,13 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
 | ------- |
@@ -164,6 +168,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Ordered Set
 |  |
 | ------- |
