@@ -138,6 +138,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0398-random-pick-index](https://github.com/Yab112/Competitive-Programming/tree/master/0398-random-pick-index) |
 | [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
@@ -203,9 +204,15 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Math
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/Yab112/Competitive-Programming/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/Yab112/Competitive-Programming/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Yab112/Competitive-Programming/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
