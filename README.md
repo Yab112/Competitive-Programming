@@ -81,6 +81,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
+| [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Yab112/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
@@ -105,6 +106,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/Yab112/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/Yab112/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -168,6 +170,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
+| [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Yab112/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Ordered Set
 |  |
@@ -197,4 +200,12 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Yab112/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
+## Math
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
