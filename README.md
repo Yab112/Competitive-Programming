@@ -82,6 +82,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yab112/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yab112/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Yab112/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
@@ -116,6 +117,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yab112/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Yab112/Competitive-Programming/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
