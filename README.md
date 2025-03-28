@@ -73,6 +73,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Yab112/Competitive-Programming/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Yab112/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Yab112/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
@@ -116,6 +117,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0198-house-robber](https://github.com/Yab112/Competitive-Programming/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yab112/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Yab112/Competitive-Programming/tree/master/1013-fibonacci-number) |
