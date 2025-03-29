@@ -10,6 +10,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yab112/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -94,6 +95,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yab112/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yab112/Competitive-Programming/tree/master/0071-simplify-path) |
@@ -117,6 +119,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/Yab112/Competitive-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0213-house-robber-ii) |
