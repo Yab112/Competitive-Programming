@@ -12,6 +12,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yab112/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Yab112/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
@@ -19,6 +20,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yab112/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Yab112/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yab112/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
@@ -74,6 +76,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yab112/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Yab112/Competitive-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Yab112/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
@@ -121,6 +124,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yab112/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yab112/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yab112/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Yab112/Competitive-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
@@ -141,6 +145,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yab112/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Yab112/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
