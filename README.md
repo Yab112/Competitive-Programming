@@ -8,6 +8,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Yab112/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yab112/Competitive-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0143-reorder-list](https://github.com/Yab112/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yab112/Competitive-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
