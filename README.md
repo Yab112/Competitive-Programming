@@ -96,6 +96,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0560-subarray-sum-equals-k](https://github.com/Yab112/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/Yab112/Competitive-Programming/tree/master/0636-exclusive-time-of-functions) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yab112/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/Yab112/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yab112/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-random-pick-with-weight](https://github.com/Yab112/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
@@ -139,6 +140,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | [0042-trapping-rain-water](https://github.com/Yab112/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Yab112/Competitive-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yab112/Competitive-Programming/tree/master/0213-house-robber-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yab112/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yab112/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Yab112/Competitive-Programming/tree/master/1013-fibonacci-number) |
@@ -152,6 +154,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yab112/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yab112/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Yab112/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [1880-largest-merge-of-two-strings](https://github.com/Yab112/Competitive-Programming/tree/master/1880-largest-merge-of-two-strings) |
 ## Monotonic Stack
@@ -191,6 +194,7 @@ LeetCode, HackerRank, CodeForce, etc for A2SV.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yab112/Competitive-Programming/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Yab112/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 ## Simulation
 |  |
 | ------- |
